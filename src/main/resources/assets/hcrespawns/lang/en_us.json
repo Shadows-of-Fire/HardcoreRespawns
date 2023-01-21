@@ -1,0 +1,10 @@
+{
+	"hcrespawns.text.respawn": "Hardcore Respawn",
+	"hcrespawns.text.respawn_info": "Lose all player-specific data and respawn in the same world about 2000 blocks away",
+	"hcrespawns.text.respawning": "Hardcore Respawn In Progress",
+	"hcrespawns.text.resetting_data": "Resetting Data",
+	"hcrespawns.text.finding_spawn": "Finding Spawn",
+	"hcrespawns.text.generating_chunks": "Generating Chunks",
+	"hcrespawns.text.spawning_new_player": "Spawning New Player",
+	"hcrespawns.text.done": "Done"
+}
